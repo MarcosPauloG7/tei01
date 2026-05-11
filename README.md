@@ -52,6 +52,22 @@ O código navega pelo mar do *branch*,
 Unindo a foz do esforço à grande fonte,
 No eterno ciclo de um novo *launch*.
 
+
+# Cadastro
+
+#### Nome completo e E-Mail
+Nome: Marcos Paulo Alves de Araújo
+
+E-Mail: marcospauloaraujo@exemplo.com
+
+#### Usuário e Senha
+Usuário: Marcos.Paulo
+
+Senha: MinhaSenha67
+
+#### Mensagem
+Seu cadastro foi concluído com sucesso!
+
 # Login
 
 Usuário: Marcos.Paulo
