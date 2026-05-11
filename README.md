@@ -10,3 +10,5 @@ Agora isso é com rebase
 - Goiaba
 
 #### DEV edit
+
+Frase de um poema: "No meio do caminho tinha uma pedra."
