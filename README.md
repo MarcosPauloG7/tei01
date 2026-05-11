@@ -65,6 +65,9 @@ Usuário: Marcos.Paulo
 
 Senha: MinhaSenha67
 
+#### Mensagem
+Seu cadastro foi concluído com sucesso!
+
 # Login
 
 Usuário: Marcos.Paulo
