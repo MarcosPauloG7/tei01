@@ -12,3 +12,5 @@ Agora isso é com rebase
 #### DEV edit
 
 Frase de um poema: "No meio do caminho tinha uma pedra."
+
+Outro commit e mais commits
