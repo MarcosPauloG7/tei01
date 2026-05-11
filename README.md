@@ -60,6 +60,10 @@ Nome: Marcos Paulo Alves de Araújo
 
 E-Mail: marcospauloaraujo@exemplo.com
 
+#### Usuário e Senha
+Usuário: Marcos.Paulo
+
+Senha: MinhaSenha67
 
 # Login
 
